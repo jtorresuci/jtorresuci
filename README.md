@@ -26,6 +26,9 @@ I am a full-stack software engineer specializing in web and mobile development. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jtorresuci)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/jtorresuci)
+[!Portfolio](https://www.jtorresuci.com)
+[!Company](https://www.100ninjas.dev)
+
 
 <!--- Add your social media and professional profiles -->
 
