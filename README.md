@@ -8,11 +8,11 @@ I am a full-stack software engineer specializing in web and mobile development. 
 
 ## 🛠️ Technologies and Tools
 
-![React](https://img.shields.io/badge/Tech-Tool-blue)
-![Javascript](https://img.shields.io/badge/Tech-Tool-blue)
-![Node.js](https://img.shields.io/badge/Tech-Tool-blue)
-![Python](https://img.shields.io/badge/Tech-Tool-blue)
-![Git](https://img.shields.io/badge/Tech-Tool-blue)
+![React](https://img.shields.io/badge/React-Tool-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Tool-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Tool-blue)
+![Python](https://img.shields.io/badge/Python-Tool-blue)
+![Git](https://img.shields.io/badge/Git-Tool-blue)
 
 <!--- List the technologies and tools you are familiar with -->
 
