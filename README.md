@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a full-stack software engineer specializing in web and mobile development. I enjoy lifting iron and am passionate about business.
+I am a full-stack software engineer specializing in web and mobile development. I enjoy lifting iron and pushing past my limits.
 
 ## 🛠️ Technologies and Tools
 
