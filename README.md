@@ -4,14 +4,14 @@
 
 ## 🚀 About Me
 
-I am a full-stack software engineer specializing in web and mobile development. I enjoy lifting iron and pushing past my limits.
+Hello, I'm Jose Torres, and I excel at harnessing the power of code and artificial intelligence to creatively solve complex business challenges.
 
 ## 🛠️ Technologies and Tools
 
+![Python](https://img.shields.io/badge/Python-Tool-blue)
 ![React](https://img.shields.io/badge/React-Tool-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Tool-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Tool-blue)
-![Python](https://img.shields.io/badge/Python-Tool-blue)
 ![Git](https://img.shields.io/badge/Git-Tool-blue)
 
 <!--- List the technologies and tools you are familiar with -->
@@ -27,7 +27,6 @@ I am a full-stack software engineer specializing in web and mobile development. 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jtorresuci)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/jtorresuci)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Link-green?style=plastic&logo=protodotio&logoColor=white)](https://www.jtorresuci.com)
-[![Company](https://img.shields.io/badge/Company-Link-green?style=plastic&logo=codingninjas&logoColor=white)](https://www.100ninjas.dev)
 
 
 
