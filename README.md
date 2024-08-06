@@ -16,9 +16,7 @@ Hello, I'm Jose Torres, and I excel at harnessing the power of code and artifici
 
 <!--- List the technologies and tools you are familiar with -->
 
-## 📈 Github Stats
 
-![jtorresuci's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtorresuci&show_icons=true&theme=radical)
 
 <!--- Add your Github stats -->
 
