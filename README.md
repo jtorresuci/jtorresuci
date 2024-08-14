@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Hello, I'm Jose Torres, and I excel at harnessing the power of code and artificial intelligence to creatively solve complex business challenges.
+Hello, I'm Joe Torres, and I excel at harnessing the power of code and artificial intelligence to creatively solve complex business challenges.
 
 ## 🛠️ Technologies and Tools
 
